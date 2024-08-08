@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>welcome</title>
+</head>
+<body background="C:\Users\User9\Downloads\sss.jpg">
+<br><br><br><br><br><br><br>
+<table width="100%">
+<tr>
+<th><img src="C:\Users\User9\Downloads\sai..avif" width="200"border="2"></img></th>
+<th><img src="C:\Users\User9\Downloads\min1.png" width="150"border="2"></img></th>
+<th><img src="C:\Users\User9\Downloads\aml.jpg" width="200"border="2"></img></th>
+</tr>
+<tr>
+<th><a href="https://www.flipkart.com/"><button>click here</button></a></th>
+<th><a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New"><button>click here</button></a></th>
+<th><a href="https://www.amazon.in/?tag=googmantxtmob170-21&ascsubtag=_k_EAIaIQobChMIo4P_psfkhwMVKBSDAx1CszcwEAAYASAAEgL_6vD_BwE_k_"><button>click here</button></a></th>
+</tr>
+<h1><center>SHOPPINGS</center></h1>
+<table width="100%">
+<tr>
+<th><img src="C:\Users\User9\Downloads\hura.png" width="200"border="2"></img></th>
+<th><img src="C:\Users\User9\Downloads\ibom.webp" width="200"border="2"></img></th>
+<th><img src="C:\Users\User9\Downloads\mov.png" width="200"border="2"></img></th>
+</tr>
+<tr>
+<th><a href="https://hurawatch.art/home/"><button>click here</button></a></th>
+<th><a href="https://one.ibomma.games/"><button>click here</button></a></th>
+<th><a href="https://www.moviezwap.mov/"><button>click here</button></a></th>
+</tr>
+<h1><center>MOVIES</center></h1>
+</body>
+</html>
